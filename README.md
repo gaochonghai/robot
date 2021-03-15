@@ -8,3 +8,5 @@ Procedures:
 3.Open the postman website, set headers and input the json payload.
 4.There is result into the body of postman.
 5.Check the mysql database, all input and output information will be recorded.
+
+More specific operations are in the 'instruction.docx'.
